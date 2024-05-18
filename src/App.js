@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import { Link } from "react-router-dom";
 
 function App() {
   return (
-    <>
-    <h1>App</h1>
-    </>
+    <div>
+      <h1>App</h1>
+    </div>
   );
 }
 
